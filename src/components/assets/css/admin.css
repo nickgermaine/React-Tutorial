@@ -1,0 +1,27 @@
+.login-page {
+    min-height: 100vh;
+    background: #eee;
+    padding-top: 100px;
+}
+
+.login-form {
+    max-width: 500px;
+    margin: auto;
+    /* margin-top: 100px; */
+    background: #fff;
+    padding: 30px;
+    box-shadow: 0px 0px 15px rgba(0,0,0,.2);
+    border-radius: 5px;
+}
+
+.login-form h1 {
+    text-align: center;
+    display: block;
+    width: 100%;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.post-content img {
+    max-width: 100%;
+}
